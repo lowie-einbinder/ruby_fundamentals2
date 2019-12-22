@@ -6,5 +6,5 @@ else
 end
 end
 
-puts is_even (9)
-puts is_even (25)
+puts is_even (2)
+puts is_even (26)
